@@ -117,3 +117,4 @@ agent_created: true
 - `references/guardrails.md` — 权限授权边界、上下文隔离降噪、诚实边界清单
 - `references/templates.md` — 主提示词、三席启动词、派单/回件/登记行模板
 - `references/workbuddy-native.md` — 原生能力落地示例、一次完整三席协作的跑法
+- `references/dsh-native.md` — DSH 宿主映射：原生工具映射表、三席跑法、缺口清单（含子代理无声失败处置）
